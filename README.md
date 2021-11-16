@@ -2,7 +2,7 @@
 
 Welcome to MakefileGenerator!
 
-to use makefile generator simply drag the generater.exe file into your directory, and run it.
+to use MakefileGenerator simply drag the generater.exe file into your directory, and run it.
 
 You can either generate a makefile by inputting the filenames in manually,
 
